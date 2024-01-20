@@ -24,4 +24,7 @@ The dataset provides crucial insights into customer sentiments, facilitating str
 * User Engagement: Follow on LinkedIn for ongoing developments, updates, and additional insights.
 ## Conclusion
 Through meticulous analysis and segmentation, this project offers a strategic solution for optimizing customer support in the banking sector. The proposed FAQ structure has the potential to significantly reduce the workload on the complaint program, leading to more efficient customer issue resolution.
+## Badge
+![Hackathon Winner Badge]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://drive.google.com/file/d/1zt5ewqAETkzQESXg4axedE_4Vi8_TjAq/view?usp=sharing)https://drive.google.com/file/d/1zt5ewqAETkzQESXg4axedE_4Vi8_TjAq/view?usp=sharing)
+
   
