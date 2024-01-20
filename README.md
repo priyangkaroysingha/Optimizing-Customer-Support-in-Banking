@@ -24,6 +24,20 @@ The dataset provides crucial insights into customer sentiments, facilitating str
 * User Engagement: Follow on LinkedIn for ongoing developments, updates, and additional insights.
 ## Conclusion
 Through meticulous analysis and segmentation, this project offers a strategic solution for optimizing customer support in the banking sector. The proposed FAQ structure has the potential to significantly reduce the workload on the complaint program, leading to more efficient customer issue resolution.
+## Participants
+Team lead: Arina Sitnikova [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/arina-sitnikova/)
+
+Team members:
+
+1. Anton Moiseev (EDA, Analysis, Final report)
+
+2. Aleksandr Arkhipov (CTO)
+
+3. Kseniya Gormash (EDA, Analysis, Visuals)
+
+5. Joshua Norfolk (Designs, Presentation)
+
+6. Priyangka Roy (Dashboard)
 ## Badge
 ![image](https://github.com/priyangkaroysingha/Optimizing-Customer-Support-in-Banking/blob/main/Winner_Badge.jpg)
 
